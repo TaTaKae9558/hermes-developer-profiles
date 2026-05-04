@@ -1,4 +1,4 @@
-# AGENTS.md — back-end
+# AGENTS.md — Backend Development Agent
 
 ## Agent Identity & Scope
 
